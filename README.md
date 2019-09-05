@@ -14,3 +14,5 @@ Perintah break jika digunakan di dalam perulangan berfungsi untuk menghentikan p
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet8/blob/master/Perulangan%20For1.png)
 Perintah Continue jika digunakan di dalam perulanggan berfungsi untuk melanjutkan jalannya program setelah terpenuhinnya perintah
 
+# ＝＝Ｃｈａｌｌａｎｇｅ＝＝
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet8/blob/master/Perulanggan%20for.png)
